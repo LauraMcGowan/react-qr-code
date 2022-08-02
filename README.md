@@ -11,4 +11,12 @@ Installed npm install qrcode.react
 
 ##
 
-'npm run start` to run on localhost
+'npm run dev` to run on localhost:3000
+
+##
+
+Future plans
+
+-use `npm package called react-hover`
+-add bitmoji to the main page
+-make it look prettier
